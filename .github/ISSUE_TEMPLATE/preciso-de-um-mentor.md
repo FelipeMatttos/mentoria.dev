@@ -1,7 +1,7 @@
 ---
 name: Preciso de um mentor
 about: Gostaria de receber uma orientação
-title: ''
+title: Oi, meu nome é SEU_NOME
 labels: Preciso de um mentor
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
 name: Quero ser mentor
 about: Gostaria de compartilhar minha experiência
-title: ''
+title: Oi, meu nome é SEU_NOME
 labels: Quero ser mentor
 assignees: ''
 

@@ -15,7 +15,7 @@ mentoria.dev
 <p>Mas é claro! Todo tipo de experiência é válida. As vezes alguns minutos de conversa podem mudar a vida de outra pessoa.</p>
 
 <h2>Como funciona?</h2>
-<p>Então...como ainda é um projeto piloto vai funcionar aqui mesmo no Github usando as issues. Dentro das issues vamos ter 2 templates: Mentor e Preciso de um mentor. Não tem segredo, dentro de cada template tem todas as introduções de como criar a issue.</p>
+<p>Então...como ainda é um projeto piloto vai funcionar aqui mesmo no Github usando as issues. Dentro das issues vamos ter 2 templates: <b>Mentor</b> e <b>Preciso de um mentor</b>. Não tem segredo, dentro de cada template tem todas as introduções de como criar a issue.</p>
 
 <h2>Tá afim de contribuir com o projeto? Show!</h2>
 <p>Sugestões são sempre bem vindas, fique à vontade para abrir uma PR.</p>
